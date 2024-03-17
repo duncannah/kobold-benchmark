@@ -1,0 +1,13 @@
+{
+	"name": "kobold-benchmark",
+	"version": "1.0.0",
+	"description": "",
+	"main": "benchmark.mjs",
+	"type": "module",
+	"scripts": {
+		"start": "node benchmark.mjs"
+	},
+	"keywords": [],
+	"author": "duncannah",
+	"license": "AGPL-3.0"
+}

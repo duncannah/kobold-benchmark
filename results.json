@@ -1,0 +1,23 @@
+[
+  {
+    "result": "success",
+    "args": {
+      "gpulayers": 43
+    },
+    "time": "Time Taken - Processing:9.1s (5ms/T), Generation:9.4s (57ms/T), Total:18.5s (9.0T/s)"
+  },
+  {
+    "result": "success",
+    "args": {
+      "gpulayers": 44
+    },
+    "time": "Time Taken - Processing:9.2s (5ms/T), Generation:9.4s (57ms/T), Total:18.6s (8.9T/s)"
+  },
+  {
+    "result": "success",
+    "args": {
+      "gpulayers": 45
+    },
+    "time": "Time Taken - Processing:9.2s (5ms/T), Generation:9.4s (57ms/T), Total:18.6s (8.9T/s)"
+  }
+]
